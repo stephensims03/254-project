@@ -1,7 +1,6 @@
 # 254-project
-Our team will be using Arduino to create a functioning (small) garage door that has recognition software built in to detect an automated car. We will be using Arduino uno and a small servo motor. along with a pre built car.  
 
-the 4 main steps to this prject are listed below. I have highlighted what I did.
+the 4 main steps to this prject are listed below. I mainly worked on #1,3, and 4.
 
 1. Hardware Assembly
 We built a compact demo door using a small DC motor mounted to wooded rod. the woden rod spun a string that open the door (plywood). The motor is driven by an Arduino Uno (see wiring diagram). We then mounted a small camara to the door.
