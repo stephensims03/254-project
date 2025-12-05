@@ -15,3 +15,18 @@ The Arduino was programmed to listen for “1” (open) command over USB serial.
 4. Testing
 
 After wiring and programming, the VS code and Arduino were fully combined. During testing, the camera successfully used the TensorFlow model, which sent commands to the Arduino. The door moved consistently to detections, completing the AIassisted garage.
+
+parts used:
+:elego smart car
+:Small dc motor
+:Ardiuno uno
+:tensorflow
+:pyserial
+:VS code
+:Arduino IDE
+
+The most diffucult part of this project was connecting Arduino IDE to the tensorflow model. We had lots of trouble getting the pyserial to work on anyones computer but nolans. 
+
+this is a short video explaning the process of building the garage.
+
+https://youtu.be/ISsgWm5NaLM
